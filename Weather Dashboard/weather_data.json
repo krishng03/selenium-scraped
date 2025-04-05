@@ -1,0 +1,51 @@
+{
+  "current_temp": "87 \u00b0F",
+  "feels_like_temp": "LIKE 87\u00b0",
+  "weather_quickie": "Tomorrow's temperature is forecast to be WARMER than today.",
+  "cards": [
+    {
+      "title": "PRECIPITATION",
+      "body": "0% Dry conditions for the next 6 hours."
+    },
+    {
+      "title": "AIR QUALITY",
+      "body": "Satisfactory Air Quality Index 76"
+    },
+    {
+      "title": "UV INDEX",
+      "data": "Very High Daytime UV 10"
+    }
+  ],
+  "additional_data": [
+    {
+      "param": "pressure",
+      "value": "29.77 in"
+    },
+    {
+      "param": "visibility",
+      "value": "3 miles"
+    },
+    {
+      "param": "clouds",
+      "value": "Partly Cloudy"
+    },
+    {
+      "param": "dew point",
+      "value": "44 F"
+    },
+    {
+      "param": "humidity",
+      "value": "22 %"
+    },
+    {
+      "param": "rainfall",
+      "value": "0 in"
+    },
+    {
+      "param": "snow depth",
+      "value": "0 in"
+    }
+  ],
+  "high_temp": "96 \u00b0F",
+  "low_temp": "70 \u00b0F"
+}
